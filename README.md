@@ -60,3 +60,7 @@ The current version uses in-memory data structures. Records reset when the appli
 
 ## Academic Alignment
 The project demonstrates modular programming, functions, data structures, control flow, validation, CRUD-like operations, searching, and reporting in a real-world application.
+
+# 
+Name : Himanshu Lalit Fegade
+Reg number : 26BAI10713
