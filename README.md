@@ -1,5 +1,4 @@
-# Vityarthi-Python-Essentials-project-AY26-27-Himanshu-Fegade-
- Hostel Management System
+# Hostel Management System
 
 ## Overview
 A modular Python console application for managing common hostel operations. The project applies programming fundamentals, functions, modules, lists, dictionaries, searching, validation, conditional logic, loops, and basic reporting in a real-world context.
